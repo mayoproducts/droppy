@@ -1,6 +1,0 @@
-<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
-
-ERROR - 2022-11-15 11:24:52 --> Severity: error --> Exception: You must provide a value for "key" in your config for the MultipartUploader for Amazon Simple Storage Service. /var/www/vhosts/wetr.in/httpdocs/application/plugins/droppy_s3/external/aws/Aws/Multipart/AbstractUploadManager.php 237
-ERROR - 2022-11-15 11:25:09 --> Severity: error --> Exception: You must provide a value for "key" in your config for the MultipartUploader for Amazon Simple Storage Service. /var/www/vhosts/wetr.in/httpdocs/application/plugins/droppy_s3/external/aws/Aws/Multipart/AbstractUploadManager.php 237
-ERROR - 2022-11-15 11:29:55 --> Severity: error --> Exception: You must provide a value for "key" in your config for the MultipartUploader for Amazon Simple Storage Service. /var/www/vhosts/wetr.in/httpdocs/application/plugins/droppy_s3/external/aws/Aws/Multipart/AbstractUploadManager.php 237
-ERROR - 2022-11-15 17:42:45 --> Severity: error --> Exception: You must provide a value for "key" in your config for the MultipartUploader for Amazon Simple Storage Service. /var/www/vhosts/wetr.in/httpdocs/application/plugins/droppy_s3/external/aws/Aws/Multipart/AbstractUploadManager.php 237

@@ -1,1 +1,0 @@
-ALTER TABLE droppy_settings MODIFY COLUMN expire VARCHAR(100);

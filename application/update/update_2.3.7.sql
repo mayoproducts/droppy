@@ -1,1 +1,0 @@
-ALTER TABLE droppy_files MODIFY `size` varchar(100) DEFAULT NULL;
